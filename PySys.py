@@ -4,7 +4,7 @@ import time
 from random import randint
 import os
 
-battery = "1"
+battery = "100"
 batteryint = int(battery)
 batteryloss = 0
 
